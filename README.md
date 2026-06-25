@@ -1,1 +1,1 @@
-# student_class
+# 자바 기본문법입니다
